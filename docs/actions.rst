@@ -37,7 +37,7 @@ and what every single line of code does. For each section, the relevant lines of
 Class And Namespace
 -------------------
 
-All build-in actions in Crud live in the ``Crud\Action`` namespace.
+All built-in actions in Crud live in the ``Crud\Action`` namespace.
 
 All actions in Crud, even your own, should inherit from the
 ``Crud\Action\Base`` class.
